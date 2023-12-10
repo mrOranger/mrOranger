@@ -1,4 +1,6 @@
-### Hello there 👋
+### <h1 align="center">Hello there! 👋</h1>
+
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/edoardo-oranger" target="_blank">
@@ -11,11 +13,11 @@
 
 ###
 
-Mi chiamo Edoardo Oranger, sono di Bari e sono a tempo pieno uno sviluppatore full stack. Tutto quello che mi piace e che voglio condividere lo trovere qui.
+Hi! I'm Edoardo Oranger from Bari, and I'm a full stack developer, gradueted at Università degli Studi di Bari. I like sport, reading and play chess. 
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="Bitbucket"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira"  />
